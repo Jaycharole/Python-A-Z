@@ -13,7 +13,7 @@ Python is one of the most famous programming language in the world. In this repo
   <tbody>
   <tr>
       <td>1</td>
-      <td><a href="https://github.com/Jaycharole/Python-A-Z/blob/main/1.%20Basics%20of%20Python.ipynb">Basicc of Python</a></td>
+      <td><a href="https://github.com/Jaycharole/Python-A-Z/blob/main/1.%20Basics%20of%20Python.ipynb">Basics of Python</a></td>
   </tr> 
 	<tr>
       <td>2</td>
@@ -21,7 +21,7 @@ Python is one of the most famous programming language in the world. In this repo
   </tr>
   <tr>
       <td>3</td>
-      <td><a href="https://github.com/Jaycharole/Python-A-Z/blob/main/3.%20Python%20decision%20making%20statements.ipynb">Python Conditional statements</a></td>
+      <td><a href="https://github.com/Jaycharole/Python-A-Z/blob/main/3.%20Python%20decision%20making%20statements.ipynb">Python Conditional statements: if, if-else, elif, nested statements</a></td>
   </tr> 
 	   
 
