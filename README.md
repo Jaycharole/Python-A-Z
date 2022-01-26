@@ -25,23 +25,23 @@ Python is one of the most famous programming language in the world. In this repo
       <td><a href="https://github.com/Jaycharole/Python-A-Z/blob/main/03_Python%20decision%20making%20statements.ipynb">Python Conditional statements: if, if-else, elif, nested statements</a></td>
   </tr> 
 <tr>
-      <td>1</td>
+      <td>4</td>
       <td><a href="https://github.com/Jaycharole/Python-A-Z/blob/main/05_While%20loop.ipynb">While Loop</a></td>
   </tr> 	   
 <tr>
-      <td>1</td>
+      <td>5</td>
       <td><a href="https://github.com/Jaycharole/Python-A-Z/blob/main/06_For%20loop.ipynb">For loop</a></td>
   </tr> 
 <tr>
-      <td>1</td>
+      <td>6</td>
       <td><a href="https://github.com/Jaycharole/Python-A-Z/blob/main/07_Python%20Data%20structures%20-%20List.ipynb">Python Data Structure: Lists</a></td>
   </tr> 
 <tr>
-      <td>1</td>
+      <td>7</td>
       <td><a href="https://github.com/Jaycharole/Python-A-Z/blob/main/08_Python%20Data%20Structures%20-%20Tuples.ipynb">Python Data Structure: Tuple</a></td>
   </tr> 
 <tr>
-      <td>1</td>
+      <td>8</td>
       <td><a href="https://github.com/Jaycharole/Python-A-Z/blob/main/09_Python%20Data%20structures%20-%20Dictionary.ipynb">Python Data Structure: Dictionary</a></td>
   </tr> 
   </tbody>
